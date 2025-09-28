@@ -6,7 +6,8 @@ This repository is meant to deliver a guided internship experience where an inte
 1. HTML
 2. CSS
 3. JavaScript
-4. CI/CD 
+4. Source Control
+5. CI/CD 
 
 ## Resources
 # Course Based
@@ -18,11 +19,13 @@ This repository is meant to deliver a guided internship experience where an inte
 1. https://www.w3schools.com/html/default.asp
 2. https://www.w3schools.com/css/default.asp
 3. https://www.w3schools.com/js/default.asp
+4. https://www.w3schools.com/git/git_intro.asp?remote=github
 
 # Videos
 1. NavBar: https://www.youtube.com/watch?v=U8smiWQ8Seg
 2. Importance of static assets: https://www.youtube.com/watch?v=YvLgZiwoT3U
 3. Basic Calculator App, shows how CSS, HTML, and JS can come together: https://youtu.be/I5kj-YsmWjM?si=yga-P_16-WLJcT1q
+4. Git in 100 seconds: https://youtu.be/hwP7WQkmECE?si=wl43CuxksBySeAYq
 
 ## Deliverables
 Create a single page website with a responsive menu and differentiated sections. Ensure this website is desktop and browser friendly.
