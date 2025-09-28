@@ -1,6 +1,7 @@
 # new-neighbor-initiative-2026
 ## Intent
 This repository is meant to deliver a guided internship experience where an intern will create a website for the Third Congressional Mongolian Lunar New Year 2026.
+Check out [NNI's Instragram](https://www.instagram.com/nni.dc/)!
 
 ## Core Curriculum
 1. HTML
