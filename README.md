@@ -29,3 +29,7 @@ This repository is meant to deliver a guided internship experience where an inte
 
 ## Deliverables
 Create a single page website with a responsive menu and differentiated sections. Ensure this website is desktop and browser friendly.
+
+## Simple Websites can look good. Here a live examples of single page + hamburger menu websites
+https://gobischolars.com/index.html
+https://almaadvisory.info
