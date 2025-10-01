@@ -34,3 +34,19 @@ Create a single page website with a responsive menu and differentiated sections.
 ## Simple Websites can look good. Here a live examples of single page + hamburger menu websites
 - https://gobischolars.com/index.html
 - https://almaadvisory.info
+
+# New Neighbor Initiative – Internship Milestones  
+**Timeline:** 10/10/25 – 2/1/26  
+**Goal:** Deliver a responsive single-page website for the Third Congressional Mongolian Lunar New Year 2026.  
+
+| Dates        | Focus                  | Key Tasks                                         | Deliverable                          |
+|--------------|------------------------|---------------------------------------------------|---------------------------------------|
+| 10/10–10/24  | HTML Basics            | Learn HTML, build simple static page, commit code | `index.html` with basic structure     |
+| 10/25–11/07  | CSS Basics             | Learn CSS, apply styling, review assets           | Styled webpage with branding          |
+| 11/08–11/21  | Layout + Nav           | Build navbar, responsive hamburger menu           | Responsive navigation implemented     |
+| 11/22–12/05  | JavaScript Intro       | Learn JS, add simple interactive feature          | Interactive element on page           |
+| 12/06–12/19  | Git + Project Setup    | Learn Git, restructure repo, clean commits        | Organized GitHub repo                 |
+| 12/20–01/02  | CI/CD + Deployment     | Deploy via GitHub Pages/Netlify, auto updates     | Live public site                      |
+| 01/03–01/16  | Content + Testing      | Add event content, accessibility, cross-browser   | Feature-complete site w/ content      |
+| 01/17–02/01  | Polish + Launch Prep   | Refine design, get feedback, finalize             | Final live website for event          |
+
