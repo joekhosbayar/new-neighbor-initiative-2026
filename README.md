@@ -39,14 +39,19 @@ Create a single page website with a responsive menu and differentiated sections.
 **Timeline:** 10/10/25 – 2/1/26  
 **Goal:** Deliver a responsive single-page website for the Third Congressional Mongolian Lunar New Year 2026.  
 
-| Dates        | Focus                  | Key Tasks                                         | Deliverable                          |
-|--------------|------------------------|---------------------------------------------------|---------------------------------------|
-| 10/10–10/24  | HTML Basics            | Learn HTML, build simple static page, commit code | `index.html` with basic structure     |
-| 10/25–11/07  | CSS Basics             | Learn CSS, apply styling, review assets           | Styled webpage with branding          |
-| 11/08–11/21  | Layout + Nav           | Build navbar, responsive hamburger menu           | Responsive navigation implemented     |
-| 11/22–12/05  | JavaScript Intro       | Learn JS, add simple interactive feature          | Interactive element on page           |
-| 12/06–12/19  | Git + Project Setup    | Learn Git, restructure repo, clean commits        | Organized GitHub repo                 |
-| 12/20–01/02  | CI/CD + Deployment     | Deploy via GitHub Pages/Netlify, auto updates     | Live public site                      |
-| 01/03–01/16  | Content + Testing      | Add event content, accessibility, cross-browser   | Feature-complete site w/ content      |
-| 01/17–02/01  | Polish + Launch Prep   | Refine design, get feedback, finalize             | Final live website for event          |
+| Dates        | Focus / Topic                   | Tech Topic                  | Key Tasks / Agenda                                                                 | Deliverable / Notes                                         | Mentor Checklist / Notes                                      |
+|--------------|---------------------------------|----------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------|
+| 10/18–11/01  | Orientation + Tech Setup         | HTML/CSS Basics            | Orientation, respectful communication, topic boundaries, handbook distribution; setup dev environment (HTML/CSS basics) | Personal Goals (1-page reflection) + Initial `index.html` structure | Confirm reflection submitted; discuss mentee’s goals; set expectations; check dev environment setup |
+| 11/01–11/15  | Resume Writing + CSS Basics      | CSS Basics                 | Mentor lecture: Resume writing; Learn CSS basics, apply styling to HTML page      | Resume Draft #1 + styled webpage                            | Review resume structure & clarity; provide CSS feedback       |
+| 11/15–11/29  | Internship Search + Layout       | Responsive Layout / Nav    | Mentor lecture: Internship search; Build responsive navigation (navbar, hamburger) | Internship Search Log (5 postings) + Application Plan + responsive nav implemented | Verify 5 postings; check plan; review layout & nav functionality |
+| 11/29–12/13  | Cover Letter + JS Intro          | JavaScript Intro           | Mentor lecture: Cover letter; Learn JS, add simple interactive feature            | Cover Letter Draft (2 postings) + interactive element      | Review cover letter customization; check JS implementation    |
+| 12/13–12/27  | Interview Prep + Git / Project Setup | Git / Project Setup       | Mentor lecture: Interview preparation; Learn Git, restructure repo, commit workflow | 5 Interview Q&A draft + organized GitHub repo              | Evaluate interview answers; review repo structure & commits   |
+| 12/27–01/10  | Mock Interviews + CI/CD          | CI/CD / Deployment         | Practice 1–2 mock interviews; Deploy website using GitHub Pages / Netlify         | Mock interviews + live deployed site                        | Conduct mock interviews; assess site deployment               |
+| 01/10–01/24  | Networking + Content / Testing   | Content / Testing          | Mentor lecture: Networking; Add content to website, test cross-browser & accessibility | Updated LinkedIn profile + networking script + feature-complete site | Review LinkedIn updates & networking script; check site content & accessibility |
+| 01/31–01/31  | Recap & Graduation               |                            | Review program learnings, finalize deliverables                                    | Final Portfolio + Self-Assessment + polished live website  | Confirm all deliverables; provide overall feedback; endorse completion |
+| 02/14–02/14  | Lunar New Year Celebration       |                            | Event participation; self-introduction practice                                    | 1–2 Sentence Self-Introduction                              | Ensure intro is clear and confident                            |
+
+
+
+
 
